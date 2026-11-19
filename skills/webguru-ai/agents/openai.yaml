@@ -1,0 +1,10 @@
+interface:
+  display_name: "webguru-ai"
+  short_description: "Website QA, defect fixing, and independent re-audit"
+  icon_small: "./assets/webguru-icon.svg"
+  icon_large: "./assets/webguru-icon.svg"
+  brand_color: "#2563EB"
+  default_prompt: "Use $webguru-ai. First ask whether I want a website audit, fixes for an existing QA report, an independent re-audit, or the full cycle. Collect only the inputs needed for that mode."
+
+policy:
+  allow_implicit_invocation: true
