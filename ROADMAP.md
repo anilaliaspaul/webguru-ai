@@ -1,10 +1,11 @@
 # Roadmap
 
-## v1.0.0 — Core skill
+## v1.0.0 — Initial release
 
+- website-auditor.ai skill identity and dedicated icon.
 - Interactive mode selection and input collection.
 - Website inventory and 12-category QA audit.
-- Defect register and evidence-based reporting.
+- Evidence-based defect register and release recommendations.
 - Authorized source-code defect resolution.
 - Regression testing and independent re-audit.
 - Claude Code and Codex packaging.
