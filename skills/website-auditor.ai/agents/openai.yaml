@@ -1,0 +1,10 @@
+interface:
+  display_name: "website-auditor.ai"
+  short_description: "Website auditing, QA remediation, and independent verification"
+  icon_small: "./assets/website-auditor-icon.svg"
+  icon_large: "./assets/website-auditor-icon.svg"
+  brand_color: "#2563EB"
+  default_prompt: "Use $website-auditor.ai. First ask whether I want a website audit, fixes for an existing QA report, an independent re-audit, or the full cycle. Collect only the inputs needed for that mode."
+
+policy:
+  allow_implicit_invocation: true
