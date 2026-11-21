@@ -2,10 +2,10 @@
 
 ## 1.0.0 — Initial release
 
+- Established the website-auditor.ai skill identity and dedicated icon.
 - Added interactive intake and four operating modes: Audit, Fix, Re-Audit, and Full Cycle.
-- Added a 12-category website QA audit framework.
-- Added defect severity, evidence, status, and release-gate definitions.
-- Added root-cause-driven developer workflow and regression requirements.
-- Added independent QA re-validation.
+- Added the 12-category website QA audit framework.
+- Added evidence-based findings, severity, priority, and release-gate definitions.
+- Added root-cause-driven remediation, regression testing, and independent QA re-validation.
 - Added production safety, authorization, and evidence discipline.
-- Added Claude Code and Codex discovery copies.
+- Included Claude Code and Codex discovery copies.
