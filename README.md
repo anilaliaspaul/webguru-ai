@@ -42,7 +42,7 @@ Findings use evidence, severity, priority, and explicit statuses. The skill does
 Install globally:
 
 ```bash
-npx skills add https://github.com/anilaliaspaul/webguru-ai --skill website-auditor.ai -a claude-code -g
+npx skills add https://github.com/anilaliaspaul/website-auditor.ai --skill website-auditor.ai -a claude-code -g
 ```
 
 Or copy `skills/website-auditor.ai` into your Claude Code skills directory.
@@ -85,7 +85,7 @@ On invocation, the skill asks which mode to run and gathers only the relevant in
 ## Repository structure
 
 ```text
-webguru-ai/
+website-auditor.ai/
 ├── README.md
 ├── LICENSE
 ├── CHANGELOG.md
@@ -99,7 +99,7 @@ webguru-ai/
 └── .agents/skills/website-auditor.ai/SKILL.md
 ```
 
-The repository name remains `webguru-ai`; the installed skill name and directory are now `website-auditor.ai`.
+The repository and installed skill are both named `website-auditor.ai`.
 
 ## Safety and limitations
 
